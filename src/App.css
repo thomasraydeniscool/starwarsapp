@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 20px 0 10px 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.App-subtitle {
+  margin: 0 0 20px 0;
+  padding: 0;
+  color: grey;
+}
+
+.App-count {
+  width: 100%;
+  background: lightgrey;
+  margin: 0;
+  height: 30px;
+  line-height: 30px;
+  color: black;
+}
+
+.App-body {
+  margin-top: 140px;
+}
