@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './People.css';
 
-import './loading.css';
+import './lib/loading.css';
 
 class People extends Component {
     constructor(props) {
